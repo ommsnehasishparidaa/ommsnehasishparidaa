@@ -18,7 +18,7 @@
 <!-- Animated Snake Contribution Grid -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmmSnehasish/OmmSnehasish/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/OmmSnehasish/OmmSnehasish/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/ommSnehasishparidaa/ommSnehasishparidaa/output/github-snake.svg">
 </picture>
 
 </div>
