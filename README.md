@@ -29,7 +29,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 
-🎓 **B.Tech CSE** @ Aryan Institute of Engineering & Technology
+🎓 **B.Tech CSE** @ Biju Patnaik University of Technology
 💼 **Java Developer Intern** @ TPCODL
 🌱 **Learning:** Advanced Geospatial Computing
 💡 **Ask me about:** Java, Spring Boot, Data Analytics
